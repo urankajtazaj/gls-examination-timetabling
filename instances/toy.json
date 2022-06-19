@@ -1,0 +1,98 @@
+{
+    "Courses": [
+        {
+            "Course": "Databases",
+            "RoomsRequested": {
+                "Number": 2,
+                "Type": "Large"
+            },
+            "Teacher": "Andrea"
+        },
+        {
+            "Course": "Algorithms",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Large"
+            },
+            "Teacher": "Luca"
+        },
+        {
+            "Course": "Programming",
+            "RoomsRequested": {
+                "Number": 2,
+                "Type": "Large"
+            },
+            "Teacher": "Sara"
+        },
+        {
+            "Course": "OpRes",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "Michele"
+        },
+        {
+            "Course": "Analytics",
+            "RoomsRequested": {
+                "Number": 0
+            },
+            "Teacher": "Andrea"
+        }
+    ],
+    "Curricula": [
+        {
+            "Curriculum": "IngGest2",
+            "PrimaryCourses": [
+                "Databases",
+                "OpRes"
+            ],
+            "SecondaryCourses": [
+                "Analytics"
+            ]
+        },
+        {
+            "Curriculum": "IngElet2",
+            "PrimaryCourses": [
+                "Databases",
+                "Algorithms"
+            ],
+            "SecondaryCourses": [
+                "OpRes",
+                "Analytics"
+            ]
+        }
+    ],
+    "Periods": 20,
+    "PrimaryPrimaryDistance": 6,
+    "PrimarySecondaryDistance": 6,
+    "Rooms": [
+        {
+            "Room": "A",
+            "Type": "Large"
+        },
+        {
+            "Room": "B",
+            "Type": "Large"
+        },
+        {
+            "Room": "C",
+            "Type": "Large"
+        },
+        {
+            "Room": "G",
+            "Type": "Small"
+        },
+        {
+            "Room": "H",
+            "Type": "Small"
+        }
+    ],
+    "SlotsPerDay": 2,
+    "Teachers": [
+        "Andrea",
+        "Luca",
+        "Sara",
+        "Michele"
+    ]
+}

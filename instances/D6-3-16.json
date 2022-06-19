@@ -1,0 +1,2255 @@
+{
+    "Courses": [
+        {
+            "Course": "28371",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1104"
+        },
+        {
+            "Course": "28373-28374",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1178"
+        },
+        {
+            "Course": "28375-28377",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1263"
+        },
+        {
+            "Course": "28379-28381",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1086"
+        },
+        {
+            "Course": "28383-28384",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1090"
+        },
+        {
+            "Course": "28389-28391",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1222"
+        },
+        {
+            "Course": "28393-28395-28394-28396",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "3729"
+        },
+        {
+            "Course": "28397-28399",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "3733"
+        },
+        {
+            "Course": "28401-28403-28402-28404",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1137"
+        },
+        {
+            "Course": "28409-28411",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1142"
+        },
+        {
+            "Course": "28417-28418",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1186"
+        },
+        {
+            "Course": "28423-28424",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1261"
+        },
+        {
+            "Course": "28433-28435",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1149"
+        },
+        {
+            "Course": "28437-28439",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1116"
+        },
+        {
+            "Course": "28445-28446",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Medium"
+            },
+            "Teacher": "1081"
+        },
+        {
+            "Course": "28449-28451",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1143"
+        },
+        {
+            "Course": "28453",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1196"
+        },
+        {
+            "Course": "28455-28456",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1163"
+        },
+        {
+            "Course": "28459-28460",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1188"
+        },
+        {
+            "Course": "28461-28462",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1329"
+        },
+        {
+            "Course": "28467",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1270"
+        },
+        {
+            "Course": "28471-28472",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1169"
+        },
+        {
+            "Course": "28473",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1158"
+        },
+        {
+            "Course": "28475-28476",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1333"
+        },
+        {
+            "Course": "28477-28479",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1147"
+        },
+        {
+            "Course": "28481-28482",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Medium"
+            },
+            "Teacher": "1127"
+        },
+        {
+            "Course": "28483-28484",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "11821"
+        },
+        {
+            "Course": "28485-28487",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1134"
+        },
+        {
+            "Course": "28489",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1220"
+        },
+        {
+            "Course": "28491",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1334"
+        },
+        {
+            "Course": "28493",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1101"
+        },
+        {
+            "Course": "28497",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1093"
+        },
+        {
+            "Course": "28501-28502",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1121"
+        },
+        {
+            "Course": "28503-28505",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1094"
+        },
+        {
+            "Course": "28507-28509",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1094"
+        },
+        {
+            "Course": "28511-28512",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1092"
+        },
+        {
+            "Course": "28513",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1336"
+        },
+        {
+            "Course": "28515-28516",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "3727"
+        },
+        {
+            "Course": "28517",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1133"
+        },
+        {
+            "Course": "28521",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1133"
+        },
+        {
+            "Course": "28523-28525",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1102"
+        },
+        {
+            "Course": "28527-28529",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1102"
+        },
+        {
+            "Course": "28533",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1093"
+        },
+        {
+            "Course": "28539-28541",
+            "RoomsRequested": {
+                "Number": 2,
+                "Type": "Large"
+            },
+            "Teacher": "1080"
+        },
+        {
+            "Course": "28543-28545",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1265"
+        },
+        {
+            "Course": "28547",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1171"
+        },
+        {
+            "Course": "28549-28550",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1172"
+        },
+        {
+            "Course": "28551-28552",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1081"
+        },
+        {
+            "Course": "28553-28555",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1220"
+        },
+        {
+            "Course": "28557-28559-28558-28560",
+            "RoomsRequested": {
+                "Number": 2,
+                "Type": "Large"
+            },
+            "Teacher": "1082"
+        },
+        {
+            "Course": "28561",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1173"
+        },
+        {
+            "Course": "28565",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1205"
+        },
+        {
+            "Course": "28567-28568",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1208"
+        },
+        {
+            "Course": "28575-28576",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1091"
+        },
+        {
+            "Course": "28577-28578",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1272"
+        },
+        {
+            "Course": "28587-28588",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1090"
+        },
+        {
+            "Course": "28593-28594",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Medium"
+            },
+            "Teacher": "1190"
+        },
+        {
+            "Course": "28595-28596",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1243"
+        },
+        {
+            "Course": "28605-28606",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "3731"
+        },
+        {
+            "Course": "28609-28610",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1175"
+        },
+        {
+            "Course": "28613-28614",
+            "RoomsRequested": {
+                "Number": 3,
+                "Type": "Large"
+            },
+            "Teacher": "1196"
+        },
+        {
+            "Course": "28615-28616",
+            "RoomsRequested": {
+                "Number": 2,
+                "Type": "Large"
+            },
+            "Teacher": "1099"
+        },
+        {
+            "Course": "28617",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1112"
+        },
+        {
+            "Course": "28619",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1098"
+        },
+        {
+            "Course": "28621",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1257"
+        },
+        {
+            "Course": "28623",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1093"
+        },
+        {
+            "Course": "28625-28627",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1183"
+        },
+        {
+            "Course": "28629",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1185"
+        },
+        {
+            "Course": "28633-28634",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1224"
+        },
+        {
+            "Course": "28637",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1109"
+        },
+        {
+            "Course": "28639-28640",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1105"
+        },
+        {
+            "Course": "28641-28642",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1167"
+        },
+        {
+            "Course": "28643",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "14191"
+        },
+        {
+            "Course": "28645",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1337"
+        },
+        {
+            "Course": "28647",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1120"
+        },
+        {
+            "Course": "28649",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1120"
+        },
+        {
+            "Course": "28651",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1180"
+        },
+        {
+            "Course": "28653",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1151"
+        },
+        {
+            "Course": "28655",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1096"
+        },
+        {
+            "Course": "28657-28658",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1324"
+        },
+        {
+            "Course": "28659-28660",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1176"
+        },
+        {
+            "Course": "28663-28665",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1142"
+        },
+        {
+            "Course": "28667-28668",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1152"
+        },
+        {
+            "Course": "28669",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1122"
+        },
+        {
+            "Course": "28671-28673-28672-28674",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1124"
+        },
+        {
+            "Course": "28675-28677",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1226"
+        },
+        {
+            "Course": "28683",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1122"
+        },
+        {
+            "Course": "28685",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1179"
+        },
+        {
+            "Course": "28691-28692",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1175"
+        },
+        {
+            "Course": "28693-28694",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "11955"
+        },
+        {
+            "Course": "28695",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1128"
+        },
+        {
+            "Course": "28697-28699-28698-28700",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1129"
+        },
+        {
+            "Course": "28701",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1128"
+        },
+        {
+            "Course": "28703-28704",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1175"
+        },
+        {
+            "Course": "28705-28707-28706-28708",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1086"
+        },
+        {
+            "Course": "28709",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1189"
+        },
+        {
+            "Course": "28711-28713",
+            "RoomsRequested": {
+                "Number": 2,
+                "Type": "Large"
+            },
+            "Teacher": "1136"
+        },
+        {
+            "Course": "28715-28717",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1139"
+        },
+        {
+            "Course": "28721",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1191"
+        },
+        {
+            "Course": "28725-28727",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1104"
+        },
+        {
+            "Course": "28729-28730",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "28657"
+        },
+        {
+            "Course": "28731",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1192"
+        },
+        {
+            "Course": "28733-28734",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1129"
+        },
+        {
+            "Course": "28735-28737",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1194"
+        },
+        {
+            "Course": "28747",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1206"
+        },
+        {
+            "Course": "28749",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1172"
+        },
+        {
+            "Course": "28751-28753",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "13985"
+        },
+        {
+            "Course": "28755-28756",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1178"
+        },
+        {
+            "Course": "28757",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1089"
+        },
+        {
+            "Course": "28761-28762",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1224"
+        },
+        {
+            "Course": "28765-28767",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1147"
+        },
+        {
+            "Course": "28769-28771",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1165"
+        },
+        {
+            "Course": "28773-28775",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1256"
+        },
+        {
+            "Course": "28777-28778",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1335"
+        },
+        {
+            "Course": "28779-28780",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "11955"
+        },
+        {
+            "Course": "28781",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1201"
+        },
+        {
+            "Course": "28785",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1189"
+        },
+        {
+            "Course": "28787",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1227"
+        },
+        {
+            "Course": "28789-28790",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "11500"
+        },
+        {
+            "Course": "28791-28792",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1145"
+        },
+        {
+            "Course": "28793-28795",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1130"
+        },
+        {
+            "Course": "28799-28801",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1132"
+        },
+        {
+            "Course": "28803-28805-28804-28806",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "11494"
+        },
+        {
+            "Course": "28807-28808",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1208"
+        },
+        {
+            "Course": "28815",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1180"
+        },
+        {
+            "Course": "28817-28819-28818-28820",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1334"
+        },
+        {
+            "Course": "28821-28822",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1167"
+        },
+        {
+            "Course": "28823",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1260"
+        },
+        {
+            "Course": "28825-28827",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1183"
+        },
+        {
+            "Course": "28829-28831",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1181"
+        },
+        {
+            "Course": "28839-28841",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1207"
+        },
+        {
+            "Course": "28845-28846",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1209"
+        },
+        {
+            "Course": "28847",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1157"
+        },
+        {
+            "Course": "28849-28850",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1152"
+        },
+        {
+            "Course": "28855-28856",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "12198"
+        },
+        {
+            "Course": "28861-28862",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1346"
+        },
+        {
+            "Course": "28867-28868",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1328"
+        },
+        {
+            "Course": "28871",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1256"
+        },
+        {
+            "Course": "28873-28874",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Medium"
+            },
+            "Teacher": "1205"
+        },
+        {
+            "Course": "28879-28880",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Medium"
+            },
+            "Teacher": "1105"
+        },
+        {
+            "Course": "28885",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1106"
+        },
+        {
+            "Course": "28887-28889",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1158"
+        },
+        {
+            "Course": "28891",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1196"
+        },
+        {
+            "Course": "28893",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1113"
+        },
+        {
+            "Course": "28895",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1202"
+        },
+        {
+            "Course": "28903-28905",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1102"
+        },
+        {
+            "Course": "28907-28909",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1229"
+        },
+        {
+            "Course": "28911",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1116"
+        },
+        {
+            "Course": "28913-28914",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1081"
+        },
+        {
+            "Course": "28915-28917",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1135"
+        },
+        {
+            "Course": "28919-28920",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1090"
+        },
+        {
+            "Course": "28921-28923",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1225"
+        },
+        {
+            "Course": "28925",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "11496"
+        },
+        {
+            "Course": "28927",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1210"
+        },
+        {
+            "Course": "28929-32296",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1228"
+        },
+        {
+            "Course": "28933-28935",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1116"
+        },
+        {
+            "Course": "28939-28940",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1123"
+        },
+        {
+            "Course": "28941-28943",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1228"
+        },
+        {
+            "Course": "28945-28947",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1080"
+        },
+        {
+            "Course": "28949-28950",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1162"
+        },
+        {
+            "Course": "28951",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1214"
+        },
+        {
+            "Course": "28953-28955-28954-28956",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1176"
+        },
+        {
+            "Course": "28959-28960",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1198"
+        },
+        {
+            "Course": "28961-28962",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1214"
+        },
+        {
+            "Course": "28963",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1214"
+        },
+        {
+            "Course": "28971-28973",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1118"
+        },
+        {
+            "Course": "28977-28979",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1182"
+        },
+        {
+            "Course": "28981",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1106"
+        },
+        {
+            "Course": "28983-28984",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1198"
+        },
+        {
+            "Course": "28985-28986",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1202"
+        },
+        {
+            "Course": "28987-28988",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1121"
+        },
+        {
+            "Course": "28989-28990",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1187"
+        },
+        {
+            "Course": "28991",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1109"
+        },
+        {
+            "Course": "28993",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "13976"
+        },
+        {
+            "Course": "28995-28997-28996-28998",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1151"
+        },
+        {
+            "Course": "28999-29000",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1328"
+        },
+        {
+            "Course": "29001-29002",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1186"
+        },
+        {
+            "Course": "29003-29005",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1110"
+        },
+        {
+            "Course": "29007-29009",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1118"
+        },
+        {
+            "Course": "29011-29013",
+            "RoomsRequested": {
+                "Number": 2,
+                "Type": "Large"
+            },
+            "Teacher": "1227"
+        },
+        {
+            "Course": "29015-29016",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1160"
+        },
+        {
+            "Course": "29087-29088",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1137"
+        },
+        {
+            "Course": "29153-29154",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1219"
+        },
+        {
+            "Course": "29169-29170",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1169"
+        },
+        {
+            "Course": "32154-32155",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "13902"
+        },
+        {
+            "Course": "32183-32184",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1090"
+        },
+        {
+            "Course": "32254",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1171"
+        },
+        {
+            "Course": "32258",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "28658"
+        },
+        {
+            "Course": "32259-32260",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "12470"
+        },
+        {
+            "Course": "32265-32266",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1240"
+        },
+        {
+            "Course": "32290-32291-32292-32293",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1262"
+        },
+        {
+            "Course": "32294-32295",
+            "RoomsRequested": {
+                "Number": 1,
+                "Type": "Small"
+            },
+            "Teacher": "1102"
+        }
+    ],
+    "Curricula": [
+        {
+            "Curriculum": "2612",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28483-28484",
+                "28593-28594",
+                "28693-28694",
+                "28873-28874",
+                "28879-28880",
+                "28949-28950",
+                "28989-28990"
+            ]
+        },
+        {
+            "Curriculum": "2613",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28383-28384",
+                "28587-28588",
+                "28595-28596",
+                "28789-28790"
+            ]
+        },
+        {
+            "Curriculum": "2614",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28373-28374",
+                "28445-28446",
+                "28471-28472",
+                "28567-28568",
+                "28609-28610",
+                "28633-28634",
+                "28639-28640",
+                "28691-28692",
+                "28703-28704",
+                "28729-28730",
+                "28791-28792",
+                "28821-28822",
+                "28919-28920",
+                "28939-28940",
+                "28985-28986",
+                "29015-29016",
+                "29087-29088"
+            ]
+        },
+        {
+            "Curriculum": "2615",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28461-28462",
+                "28755-28756",
+                "28949-28950",
+                "28983-28984",
+                "28995-28997-28996-28998"
+            ]
+        },
+        {
+            "Curriculum": "2616",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28491",
+                "28503-28505",
+                "28617",
+                "28651",
+                "28653",
+                "28685",
+                "28725-28727",
+                "28731",
+                "28751-28753",
+                "28781",
+                "28871",
+                "28921-28923",
+                "28929-32296",
+                "28941-28943",
+                "28945-28947"
+            ]
+        },
+        {
+            "Curriculum": "2617",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28493",
+                "28497",
+                "28623",
+                "28653",
+                "28721",
+                "28971-28973"
+            ]
+        },
+        {
+            "Curriculum": "2618",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28371",
+                "28489",
+                "28503-28505",
+                "28651",
+                "28725-28727",
+                "28751-28753",
+                "28823",
+                "28915-28917",
+                "28945-28947",
+                "28977-28979",
+                "28993",
+                "29011-29013"
+            ]
+        },
+        {
+            "Curriculum": "2619",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28409-28411",
+                "28513",
+                "28645",
+                "28769-28771",
+                "28825-28827",
+                "28829-28831"
+            ]
+        },
+        {
+            "Curriculum": "2620",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28437-28439",
+                "28449-28451",
+                "28453",
+                "28567-28568",
+                "28613-28614",
+                "28643",
+                "28655",
+                "28695",
+                "28701",
+                "28709",
+                "28721",
+                "28785",
+                "28791-28792",
+                "28823",
+                "28895",
+                "28903-28905",
+                "28921-28923",
+                "28933-28935",
+                "28963",
+                "28981",
+                "28991",
+                "28993",
+                "32258"
+            ]
+        },
+        {
+            "Curriculum": "2621",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28473",
+                "28617",
+                "28747",
+                "28823",
+                "28839-28841",
+                "28847",
+                "28893",
+                "28911",
+                "28993",
+                "29003-29005"
+            ]
+        },
+        {
+            "Curriculum": "2622",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28445-28446",
+                "28461-28462",
+                "28471-28472",
+                "28561",
+                "28565",
+                "28621",
+                "28633-28634",
+                "28647",
+                "28749",
+                "28821-28822",
+                "28939-28940"
+            ]
+        },
+        {
+            "Curriculum": "2623",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28459-28460",
+                "28641-28642",
+                "28649",
+                "28657-28658",
+                "28845-28846",
+                "28913-28914"
+            ]
+        },
+        {
+            "Curriculum": "2624",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28437-28439",
+                "28467",
+                "28547",
+                "28629",
+                "28735-28737",
+                "28785",
+                "28891",
+                "28925",
+                "28927",
+                "32294-32295"
+            ]
+        },
+        {
+            "Curriculum": "2625",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28637",
+                "28655",
+                "28669",
+                "28683",
+                "28747",
+                "28787",
+                "32254"
+            ]
+        },
+        {
+            "Curriculum": "2626",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28393-28395-28394-28396",
+                "28423-28424",
+                "28481-28482",
+                "28705-28707-28706-28708",
+                "28803-28805-28804-28806",
+                "28817-28819-28818-28820",
+                "28961-28962"
+            ]
+        },
+        {
+            "Curriculum": "2627",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28401-28403-28402-28404",
+                "28417-28418",
+                "28475-28476",
+                "28501-28502",
+                "28503-28505",
+                "28511-28512",
+                "28549-28550",
+                "28613-28614",
+                "28615-28616",
+                "28663-28665",
+                "28697-28699-28698-28700",
+                "28733-28734",
+                "28777-28778",
+                "28807-28808",
+                "28953-28955-28954-28956",
+                "29001-29002",
+                "32290-32291-32292-32293"
+            ]
+        },
+        {
+            "Curriculum": "2628",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28551-28552",
+                "28557-28559-28558-28560",
+                "28671-28673-28672-28674",
+                "28761-28762",
+                "28999-29000"
+            ]
+        },
+        {
+            "Curriculum": "2629",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28375-28377",
+                "28393-28395-28394-28396",
+                "28517",
+                "28521",
+                "28539-28541",
+                "28711-28713",
+                "28731"
+            ]
+        },
+        {
+            "Curriculum": "2630",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28503-28505",
+                "28521",
+                "28619",
+                "28663-28665",
+                "28815",
+                "28907-28909",
+                "29007-29009"
+            ]
+        },
+        {
+            "Curriculum": "2631",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28433-28435",
+                "28653",
+                "28735-28737",
+                "28773-28775",
+                "28941-28943",
+                "28945-28947"
+            ]
+        },
+        {
+            "Curriculum": "2632",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28375-28377",
+                "28389-28391",
+                "28539-28541",
+                "28543-28545",
+                "28711-28713",
+                "28735-28737",
+                "28793-28795"
+            ]
+        },
+        {
+            "Curriculum": "2633",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28477-28479",
+                "28503-28505",
+                "28517",
+                "28663-28665",
+                "28735-28737",
+                "28757",
+                "28769-28771",
+                "28893",
+                "28915-28917",
+                "29007-29009",
+                "29011-29013"
+            ]
+        },
+        {
+            "Curriculum": "2634",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28523-28525",
+                "28533",
+                "28553-28555",
+                "28625-28627",
+                "28629",
+                "28675-28677",
+                "28725-28727",
+                "28757",
+                "28823",
+                "28829-28831",
+                "28885",
+                "28945-28947"
+            ]
+        },
+        {
+            "Curriculum": "2635",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28379-28381",
+                "28397-28399",
+                "28485-28487",
+                "28715-28717",
+                "28735-28737",
+                "28799-28801",
+                "28817-28819-28818-28820"
+            ]
+        },
+        {
+            "Curriculum": "2636",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28527-28529",
+                "28615-28616",
+                "28765-28767",
+                "28893",
+                "28951",
+                "29011-29013",
+                "29153-29154"
+            ]
+        },
+        {
+            "Curriculum": "2637",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28507-28509",
+                "28675-28677",
+                "28887-28889",
+                "28993"
+            ]
+        },
+        {
+            "Curriculum": "2638",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28455-28456",
+                "28575-28576",
+                "28605-28606",
+                "28667-28668",
+                "28779-28780",
+                "28855-28856",
+                "28867-28868"
+            ]
+        },
+        {
+            "Curriculum": "2639",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28515-28516",
+                "28577-28578",
+                "28659-28660",
+                "28791-28792",
+                "28849-28850",
+                "28861-28862",
+                "28987-28988"
+            ]
+        },
+        {
+            "Curriculum": "2640",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "28511-28512",
+                "28959-28960",
+                "29169-29170",
+                "32154-32155",
+                "32183-32184",
+                "32259-32260",
+                "32265-32266"
+            ]
+        }
+    ],
+    "Periods": 58,
+    "PrimaryPrimaryDistance": 6,
+    "PrimarySecondaryDistance": 6,
+    "Rooms": [
+        {
+            "Room": "2614",
+            "Type": "Small"
+        },
+        {
+            "Room": "2615",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2616",
+            "Type": "Small"
+        },
+        {
+            "Room": "2617",
+            "Type": "Small"
+        },
+        {
+            "Room": "2618",
+            "Type": "Small"
+        },
+        {
+            "Room": "2619",
+            "Type": "Small"
+        },
+        {
+            "Room": "2620",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2621",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2622",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2623",
+            "Type": "Large"
+        },
+        {
+            "Room": "2624",
+            "Type": "Large"
+        },
+        {
+            "Room": "2907",
+            "Type": "Small"
+        },
+        {
+            "Room": "2625",
+            "Type": "Large"
+        },
+        {
+            "Room": "2626",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2627",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2630",
+            "Type": "Large"
+        },
+        {
+            "Room": "2633",
+            "Type": "Large"
+        },
+        {
+            "Room": "2634",
+            "Type": "Large"
+        },
+        {
+            "Room": "2635",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2636",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2639",
+            "Type": "Small"
+        },
+        {
+            "Room": "2628",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2629",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2631",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2632",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2637",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2638",
+            "Type": "Medium"
+        },
+        {
+            "Room": "2640",
+            "Type": "Large"
+        },
+        {
+            "Room": "2641",
+            "Type": "Large"
+        }
+    ],
+    "SlotsPerDay": 2,
+    "Teachers": [
+        "1151",
+        "1101",
+        "1109",
+        "11496",
+        "1169",
+        "1158",
+        "1224",
+        "1161",
+        "1221",
+        "1167",
+        "1150",
+        "1142",
+        "1170",
+        "1256",
+        "1163",
+        "1340",
+        "1179",
+        "28657",
+        "1122",
+        "1204",
+        "1259",
+        "1137",
+        "1125",
+        "1270",
+        "1182",
+        "1257",
+        "1225",
+        "1106",
+        "1219",
+        "1186",
+        "1244",
+        "13986",
+        "1210",
+        "1261",
+        "1153",
+        "12476",
+        "1189",
+        "1129",
+        "1145",
+        "1168",
+        "1134",
+        "1185",
+        "1131",
+        "13985",
+        "1183",
+        "12448",
+        "1324",
+        "1132",
+        "1265",
+        "1148",
+        "1267",
+        "1149",
+        "1232",
+        "1328",
+        "1335",
+        "1196",
+        "1157",
+        "1154",
+        "1178",
+        "3729",
+        "1086",
+        "1337",
+        "11954",
+        "1334",
+        "1143",
+        "1112",
+        "11494",
+        "1116",
+        "1133",
+        "1113",
+        "1130",
+        "1209",
+        "3727",
+        "1120",
+        "1123",
+        "1230",
+        "1238",
+        "11955",
+        "1187",
+        "14191",
+        "28658",
+        "1136",
+        "1192",
+        "1333",
+        "3731",
+        "1102",
+        "1173",
+        "1214",
+        "11821",
+        "1195",
+        "1260",
+        "1081",
+        "1202",
+        "1229",
+        "1228",
+        "1080",
+        "1176",
+        "13976",
+        "1147",
+        "1139",
+        "1207",
+        "1165",
+        "1188",
+        "1128",
+        "1190",
+        "1180",
+        "1172",
+        "1262",
+        "1329",
+        "1160",
+        "1243",
+        "1191",
+        "1091",
+        "1082",
+        "1127",
+        "1336",
+        "1096",
+        "1175",
+        "12198",
+        "1092",
+        "3730",
+        "1346",
+        "1118",
+        "1181",
+        "1124",
+        "1201",
+        "1208",
+        "1220",
+        "1227",
+        "1104",
+        "1093",
+        "1206",
+        "1198",
+        "1098",
+        "1162",
+        "1110",
+        "1095",
+        "1272",
+        "13902",
+        "1099",
+        "11500",
+        "1152",
+        "1222",
+        "1194",
+        "1135",
+        "1226",
+        "1094",
+        "1171",
+        "1090",
+        "12470",
+        "1205",
+        "1089",
+        "1105",
+        "11499",
+        "1121",
+        "3733",
+        "1263",
+        "1240"
+    ]
+}
